@@ -22,7 +22,7 @@ Combines technical expertise with a deep understanding of user experience to del
     
 ### GitHub Contributions
 
-    <a href="https://github.com/srsedev"><img src="https://github-readme-stats.vercel.app/api?username=srsedev" alt="Github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=srsedev" style="max-width: 100%;"></a>
+     ![GitHub Contributions](<a href="https://github.com/srsedev"><img src="https://github-readme-stats.vercel.app/api?username=srsedev" alt="Github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=srsedev" style="max-width: 100%;"></a>)
     
     ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=srsedev)
 
