@@ -22,7 +22,7 @@ Combines technical expertise with a deep understanding of user experience to del
     
 ### GitHub Contributions
     
-    ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=srsedev)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=srsedev)
 
 ### Most Used Langauges
     
